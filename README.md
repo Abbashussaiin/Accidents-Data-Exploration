@@ -37,16 +37,13 @@ A higher percentage of accidents occur between 7 AM to 9AM in the morning and 3 
 
 
 
-			      			 Fig 2.2 Distribution of accidents throughout the week
+	`		Fig 2.2 Distribution of accidents throughout the 
+						 
 We used ‘functions.dayofweek’ to extract the ‘day’ on which each accident happened, aggregated to get the count for the number of accidents for each day.  When looking at the data pattern in Fig 2.2 across the week, it's clear that there are a lot more accidents on weekdays, which are Monday through Friday in the United States. On the contrary, on weekends, such as Saturday and Sunday, there are fewer accidents.
 To further our finding, Figures 2.4 and 2.5 show how the number of accidents dispersed across weekend and weekdays, respectively, During weekends the graph  reverses over the count of accident on a weekday. On weekends, the number of accidents is much lower, especially during peak hours, whereas on weekdays, the number of accidents is over three times higher.
 
   		              
-      ![image](https://user-images.githubusercontent.com/37774930/172074401-3d904ea4-e699-4609-aaa4-d65a73bf3a56.png)
-
-
-
-                        Fig 2.3 Distribution of accidents on a weekend                                         
+                                         
 Accidents rise progressively from low points in January and February to a high point in October and December. In comparison to the second half of the year, the first half of the year had a lower number of accidents. Monthly accident rates have risen gradually from February's lows, culminating in the fourth quarter of the year.
  
 
@@ -58,7 +55,7 @@ Accidents rise progressively from low points in January and February to a high p
 
 
 
-		                        Fig 2.5 Distribution of accidents over each month 
+		           Fig 2.5 Distribution of accidents over each month 
 
 
 Weather impact on accidents
@@ -110,7 +107,7 @@ To further our standing the accidents time over each cities were done and Los An
 
 
 
-							Fig 2.10 Distribution of accidents over cities
+			Fig 2.10 Distribution of accidents over cities
 
 
 
