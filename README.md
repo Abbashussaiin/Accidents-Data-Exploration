@@ -66,6 +66,8 @@ Weather impact on accidents
 The Temperature column contains temperature during each time a accident happen. Since most accidents tend to happen during the end of year as depicted in the Fig2.6, cold temperature might play a bog role in that. 
 On plotting a graph, it is visible that the accidents tend to happen in cold temperatures rather than warm temperatures. I have encoded all the temperature less than 70 degree fahrenheite as cold climate. 
 
+![image](https://user-images.githubusercontent.com/37774930/172074432-3c8c4a76-5744-4739-b753-19e20737e6ca.png)
+
 			Fig 2.6 Distribution of accidents in different climate
 
 
@@ -82,13 +84,14 @@ The dataset contains 128 unique entries for the column 'Weather Condition,' as w
 
 
 
+![image](https://user-images.githubusercontent.com/37774930/172074443-f8a0cc79-98b1-410c-b640-44cce9ca8b19.png)
 
 
 
 
 
 			FIg 2.7 Distribution of accidents over weather condition
-		Fig 2.8 Heatmap correlation of accidents over weather condition 	
+		
 
 
 
@@ -103,6 +106,7 @@ To further our standing the accidents time over each cities were done and Los An
 
 
 
+![image](https://user-images.githubusercontent.com/37774930/172074466-15c7b57e-156a-49d8-b41d-36b1e296aac8.png)
 
 
 
@@ -123,6 +127,7 @@ Severity of Accidents
 
 The Severity is the most intriguing aspect of the dataset. The severity of the accident is determined by its impact. The graph below gives us details of the severity of each accident.  Around 80% of the accidents are of average severity. It is followed by high severity which is around 10%.  A very low percentage is formed by the very low severity(1) which is 1.86% altogether.  As we can clearly see the majority of the accidents had a severity of 2 (average) or 3 (above average), which is regrettable. There aren't many accidents that aren't fatal (0 and 1). Severity 3&4 have a significant influence. Accidents of severity 2 are more common than those of severity 3 and 4. Incidents of severity 3&4 are more likely to result in fatalities, while accidents with severity 2 are more likely to result in injuries.      		           
 
+![image](https://user-images.githubusercontent.com/37774930/172074480-4b62842f-8c2e-4d80-97c5-ba8806f8c7e0.png)
 
 		     
 				Fig 2.12 Severity of each accident
@@ -131,5 +136,7 @@ The Severity is the most intriguing aspect of the dataset. The severity of the a
 
 I have plotted the severity  for each state individually. From the below plot, we can conclude that the accidents with most severity occurred in Wyoming followed by Delaware and Colorado. The highest accidents prone state such as California and Florida are pretty low with the overall severity of accidents.
  
+ ![image](https://user-images.githubusercontent.com/37774930/172074491-d6ed63e3-af88-4a99-8f58-9569be508d77.png)
+
 
  			 	  Fig 2.13 Severity of accidents in each state
